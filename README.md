@@ -1,4 +1,4 @@
-## AAA Master Class :: Introduction to Artificial Intelligence and Machine Learning
+## AAA Master Class :: Detection of Accounting Anomalies using Deep-Learning
 
 This repository features a series of interactive Jupyter Notebooks for the Fall term 2021 lab course accompanying the 
 7,044,1.00 *Introduction to Artificial Intelligence and Machine Learning* course offered at the 
