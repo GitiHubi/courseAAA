@@ -10,14 +10,14 @@ The ineractive lab will walk you through the detection of accounting anomalies u
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-## Lab Notebooks
+## Interactive Master Class Notebooks
 
 | Lab | Date         |Topic                                                                 | Launchers |
 |:---:|:------------:|----------------------------------------------------------------------|:--------:|
 |  1  | ToDo  | MyBinder Notebook Version                              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gitihubi/courseAAA/main?filepath=aaa_lab.ipynb) |
 |  2  | ToDo  | Google Colab Notebook Version                          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitihubi/courseAAA/blob/main/aaa_colab.ipynb)|
 
-## How To Run the Lab Notebooks
+## How To Run the Master Class Notebooks
 
 You might run the Jupyter Notebooks either in the cloud via Binder (https://mybinder.org/) or Google Colab (https://colab.research.google.com/) or locally via a Python installation of your computer.
 
