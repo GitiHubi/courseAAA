@@ -56,7 +56,7 @@ If you need help running Python and/or Jupyter Notebooks, please don't hesitate 
 
 ## Reference
 
-The lab is inspired by our work **"Detection of Anomalies in Large Scale Accounting Data using Deep Autoencoder Networks"** that we presented at NVIDIA's GPU Technology Conference (GTC) Silicon Valley in 2018. A recording of the talk can found via the following NVIDIA GTC on demand link.  
+The lab is inspired by our work **"Detection of Anomalies in Large Scale Accounting Data using Deep Autoencoder Networks"** that we presented at NVIDIA's GPU Technology Conference (GTC) Silicon Valley in 2018. A recording of the talk can found via the following NVIDIA GTC on demand link: https://www.nvidia.com/en-us/on-demand/session/gtcsiliconvalley2018-s8343/  
 
 The publication is available on arXiv via the following link: https://arxiv.org/abs/1709.05254
 
