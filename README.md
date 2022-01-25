@@ -10,7 +10,7 @@ The ineractive lab will walk you through the detection of accounting anomalies i
 
 ## Interactive Master Class Notebooks
 
-You might run the Jupyter Notebooks either in the cloud via Binder (https://mybinder.org/) or Google Colab (https://colab.research.google.com/) or locally via a Python installation of your computer. To launch the interactive notebook on your preferred cloud environment please click on one of the launcher buttons in the table below:
+You might run the Jupyter Notebooks either in the cloud via [Binder](https://mybinder.org/) or [Google Colab](https://colab.research.google.com/) or locally via a Python installation of your computer. To launch the interactive notebook on your preferred cloud environment please click on one of the launcher buttons in the table below:
 
 | Lab | Date         |Topic                                                                 | Launchers |
 |:---:|:------------:|----------------------------------------------------------------------|:--------:|
