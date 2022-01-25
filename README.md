@@ -1,25 +1,23 @@
-## AAA Master Class :: Introduction to Artificial Intelligence and Machine Learning
+## AAA Master Class :: Detection of Accounting Anomalies using Deep-Learning
 
-This repository features a series of interactive Jupyter Notebooks for the Fall term 2021 lab course accompanying the 
-7,044,1.00 *Introduction to Artificial Intelligence and Machine Learning* course offered at the 
-University of St. Gallen (HSG).
-
-The ineractive lab will walk you through the detection of accounting anomalies using deep autoencoder neural networks. The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org), and [PyTorch](https://pytorch.org).
+This repository features the interactive Jupyter Notebooks for the Fall term 2021 lab course accompanying the *Detection of Accounting Anomalies using Deep-Learning* Master Class held at the [AAA's Intensive Data and Analytics III Summer Workshop 2022](https://aaahq.org/Meetings/2022/Intensive-Data-and-Analytics-Workshop-III).
 
 ![Course Banner](banner.png)
 
+The ineractive lab will walk you through the detection of accounting anomalies in large-scale accounting data (e.g. SAP ERP or Oracle Financials) using a particular deep-learning techniques referred to as [deep autoencoder neural networks](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.459.3788&rep=rep1&type=pdf). The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org), and [PyTorch](https://pytorch.org).
+
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-## Lab Notebooks
+## Interactive Master Class Notebooks
+
+You might run the Jupyter Notebooks either in the cloud via [Binder](https://mybinder.org/) or [Google Colab](https://colab.research.google.com/) or locally via a Python installation of your computer. To launch the interactive notebook on your preferred cloud environment please click on one of the launcher buttons in the table below:
 
 | Lab | Date         |Topic                                                                 | Launchers |
 |:---:|:------------:|----------------------------------------------------------------------|:--------:|
-|  1  | ToDo  | MyBinder Notebook Version                              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gitihubi/courseAAA/main?filepath=aaa_lab.ipynb) |
-|  2  | ToDo  | Google Colab Notebook Version                          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitihubi/courseAAA/blob/main/aaa_colab.ipynb)|
+|  1  | 05/25/2022 | MyBinder Notebook Version                              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gitihubi/courseAAA/main?filepath=aaa_lab.ipynb) |
+|  2  | 05/25/2022 | Google Colab Notebook Version                          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitihubi/courseAAA/blob/main/aaa_colab.ipynb)|
 
-## How To Run the Lab Notebooks
-
-You can run Jupyter Notebooks either in the cloud via Binder (https://mybinder.org/) or Google Colab (https://colab.research.google.com/) or locally via a Python installation of your computer.
+## How To Run the Master Class Notebooks
 
 #### [Option 1] Binder Cloud Environment ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAAA/main))
 
@@ -54,13 +52,13 @@ or simply clone this repository to your computer.
 
 If you need help running Python and/or Jupyter Notebooks, please don't hesitate to contact us (see below)!
 
-## Reference
+## Scientific Reference
 
-The lab is inspired by our work **"Detection of Anomalies in Large Scale Accounting Data using Deep Autoencoder Networks"** that we presented at NVIDIA's GPU Technology Conference (GTC) Silicon Valley in 2018. A recording of our talk can found via the following NVIDIA GTC on demand link: https://www.nvidia.com/en-us/on-demand/session/gtcsiliconvalley2018-s8343/  
+The lab is inspired by our work **"Detection of Anomalies in Large Scale Accounting Data using Deep Autoencoder Networks"** that we presented at **NVIDIA's GPU Technology Conference (GTC)** Silicon Valley in 2018. A recording of our talk can found via the following NVIDIA GTC on demand link: https://www.nvidia.com/en-us/on-demand/session/gtcsiliconvalley2018-s8343/  
 
-The publication is available on arXiv via the following link: https://arxiv.org/abs/1709.05254
+The corresponding publication is available on the arXiv via the following link: https://arxiv.org/abs/1709.05254
 
-Opinions expressed in this work are those of the authors, and do not necessarily reflect the view of PricewaterhouseCoopers (PwC) International Ltd. nor its network firms.
+Opinions expressed in this work are those of the authors, and do not necessarily reflect the view of [PricewaterhouseCoopers International Ltd.](https://www.pwc.com) nor its network firms. Recently we successfully demonstrated the practical application of the approach within the internal audit function of [Nestlé S.A.](https://www.nestle.com) as described in the publication  **"Artificial Intelligence in Internal Audit as a Contribution to Effective Governance"** available [here](https://www.alexandria.unisg.ch/265632/1/2022_1_Artificial_intelligence_in_internal_audit_as_a_contribution_to_effective_governance.pdf).
 
 ## Questions?
 
