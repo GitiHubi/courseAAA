@@ -19,7 +19,7 @@ The ineractive lab will walk you through the detection of accounting anomalies u
 
 ## How To Run the Lab Notebooks
 
-You can run Jupyter Notebooks either in the cloud via Binder (https://mybinder.org/) or Google Colab (https://colab.research.google.com/) or locally via a Python installation of your computer.
+You might run the Jupyter Notebooks either in the cloud via Binder (https://mybinder.org/) or Google Colab (https://colab.research.google.com/) or locally via a Python installation of your computer.
 
 #### [Option 1] Binder Cloud Environment ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAAA/main))
 
