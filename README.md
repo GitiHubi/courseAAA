@@ -12,8 +12,8 @@ The ineractive lab will walk you through the detection of accounting anomalies i
 
 | Lab | Date         |Topic                                                                 | Launchers |
 |:---:|:------------:|----------------------------------------------------------------------|:--------:|
-|  1  | ToDo  | MyBinder Notebook Version                              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gitihubi/courseAAA/main?filepath=aaa_lab.ipynb) |
-|  2  | ToDo  | Google Colab Notebook Version                          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitihubi/courseAAA/blob/main/aaa_colab.ipynb)|
+|  1  | 05/25/2022 | MyBinder Notebook Version                              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gitihubi/courseAAA/main?filepath=aaa_lab.ipynb) |
+|  2  | 05/25/2022 | Google Colab Notebook Version                          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitihubi/courseAAA/blob/main/aaa_colab.ipynb)|
 
 ## How To Run the Master Class Notebooks
 
