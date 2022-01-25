@@ -54,11 +54,11 @@ If you need help running Python and/or Jupyter Notebooks, please don't hesitate 
 
 ## Scientific Reference
 
-The lab is inspired by our work **"Detection of Anomalies in Large Scale Accounting Data using Deep Autoencoder Networks"** that we presented at NVIDIA's GPU Technology Conference (GTC) Silicon Valley in 2018. A recording of our talk can found via the following NVIDIA GTC on demand link: https://www.nvidia.com/en-us/on-demand/session/gtcsiliconvalley2018-s8343/  
+The lab is inspired by our work **"Detection of Anomalies in Large Scale Accounting Data using Deep Autoencoder Networks"** that we presented at **NVIDIA's GPU Technology Conference (GTC)** Silicon Valley in 2018. A recording of our talk can found via the following NVIDIA GTC on demand link: https://www.nvidia.com/en-us/on-demand/session/gtcsiliconvalley2018-s8343/  
 
 The publication is available on arXiv via the following link: https://arxiv.org/abs/1709.05254
 
-Opinions expressed in this work are those of the authors, and do not necessarily reflect the view of PricewaterhouseCoopers (PwC) International Ltd. nor its network firms.
+Opinions expressed in this work are those of the authors, and do not necessarily reflect the view of PricewaterhouseCoopers (PwC) International Ltd. nor its network firms. Recently we successfully demonstrated the practical application of the approach within the internal audit function of [Nestlé](https://www.nestle.com).
 
 ## Questions?
 
