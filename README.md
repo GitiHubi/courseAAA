@@ -2,9 +2,9 @@
 
 This repository features the interactive Jupyter Notebooks for the Fall term 2021 lab course accompanying the *Detection of Accounting Anomalies using Deep-Learning* Master Class held at the [AAA's Intensive Data and Analytics III Summer Workshop 2022](https://aaahq.org/Meetings/2022/Intensive-Data-and-Analytics-Workshop-III).
 
-The ineractive lab will walk you through the detection of accounting anomalies in large-scale accounting data (e.g. SAP ERP or Oracle Financials) using a particular deep-learning techniques referred to as [deep autoencoder neural networks](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.459.3788&rep=rep1&type=pdf). The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org), and [PyTorch](https://pytorch.org).
-
 ![Course Banner](banner.png)
+
+The ineractive lab will walk you through the detection of accounting anomalies in large-scale accounting data (e.g. SAP ERP or Oracle Financials) using a particular deep-learning techniques referred to as [deep autoencoder neural networks](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.459.3788&rep=rep1&type=pdf). The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org), and [PyTorch](https://pytorch.org).
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
