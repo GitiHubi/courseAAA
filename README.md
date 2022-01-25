@@ -58,9 +58,7 @@ The lab is inspired by our work **"Detection of Anomalies in Large Scale Account
 
 The corresponding publication is available on arXiv via the following link: https://arxiv.org/abs/1709.05254
 
-Opinions expressed in this work are those of the authors, and do not necessarily reflect the view of PricewaterhouseCoopers (PwC) International Ltd. nor its network firms. Recently we successfully demonstrated the practical application of the approach within the internal audit function of [Nestlé S.A.](https://www.nestle.com). 
-
-The corresponding publication is available on arXiv via the following link: https://www.alexandria.unisg.ch/265632/1/2022_1_Artificial_intelligence_in_internal_audit_as_a_contribution_to_effective_governance.pdf
+Opinions expressed in this work are those of the authors, and do not necessarily reflect the view of PricewaterhouseCoopers (PwC) International Ltd. nor its network firms. Recently we successfully demonstrated the practical application of the approach within the internal audit function of [Nestlé S.A.](https://www.nestle.com) as described in the following publication  **"Artificial Intelligence in Internal Audit as a Contribution to Effective Governance"** available [here](https://www.alexandria.unisg.ch/265632/1/2022_1_Artificial_intelligence_in_internal_audit_as_a_contribution_to_effective_governance.pdf).
 
 ## Questions?
 
