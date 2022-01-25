@@ -14,8 +14,8 @@ The ineractive lab will walk you through the detection of accounting anomalies u
 
 | Lab | Date         |Topic                                                                 | Launchers |
 |:---:|:------------:|----------------------------------------------------------------------|:--------:|
-|  1  | ToDo  | MyBinder Notebook Version                              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/main?filepath=aaa_lab.ipynb) |
-|  2  | ToDo  | Google Colab Notebook Version                          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/main/aaa_colab.ipynb)|
+|  1  | ToDo  | MyBinder Notebook Version                              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/courseAAA/main?filepath=aaa_lab.ipynb) |
+|  2  | ToDo  | Google Colab Notebook Version                          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/courseAAA/blob/main/aaa_colab.ipynb)|
 
 ## How To Run the Lab Notebooks
 
