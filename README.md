@@ -15,7 +15,8 @@ neural networks. We will also feature information on our coding challenge at the
 
 | Lab | Date         |Topic                                                                 | Launchers |
 |:---:|:------------:|----------------------------------------------------------------------|:--------:|
-|  0  | < Oct 4  | Testing the Notebook Environment                                     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/main?filepath=lab_00%2Ftest_notebook_environment.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/main/lab_00/test_notebook_environment.ipynb)|
+|  1  | ToDo  | MyBinder Notebook Version                              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/main?filepath=lab_00%2Ftest_notebook_environment.ipynb) |
+|  2  | ToDo  | Google Colab Notebook Version                          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/main/lab_00/test_notebook_environment.ipynb)|
 
 ## How To Run the Lab Notebooks
 
