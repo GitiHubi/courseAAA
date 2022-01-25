@@ -47,9 +47,6 @@ as a Jupyter Notebook server that runs on your computer locally. Anaconda
 for the most common operating systems, as well as some 
 [detailed installation guides](https://docs.anaconda.com/anaconda/install/). 
 
-To run our Notebooks locally, you can download them individually from this website, 
-or simply clone this repository to your computer. 
-
 If you need help running Python and/or Jupyter Notebooks, please don't hesitate to contact us (see below)!
 
 ## Scientific Reference
