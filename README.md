@@ -20,8 +20,7 @@ neural networks. We will also feature information on our coding challenge at the
 
 ## How To Run the Lab Notebooks
 
-You can run the lab Notebooks in the cloud using either [binder](https://mybinder.org/) or 
-[Google Colab](https://colab.research.google.com/), or locally on your computer. 
+You can run Jupyter Notebooks either in the cloud via Binder (https://mybinder.org/) or Google Colab (https://colab.research.google.com/) or locally via a Python installation of your computer.
 
 #### [Option 1] Binder Cloud Environment ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAAA/main))
 
