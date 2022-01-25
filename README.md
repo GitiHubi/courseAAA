@@ -55,6 +55,12 @@ or simply clone this repository to your computer.
 
 If you need help running Python and/or Jupyter Notebooks, please don't hesitate to contact us (see below)!
 
+## Reference
+
+The lab is inspired by our work **"Detection of Anomalies in Large Scale Accounting Data using Deep Autoencoder Networks"** by Marco Schreyer, Timur Sattarov, Damian Borth, Andreas Dengel and Bernd Reimer.
+
+The publication is available on arXiv via the following link: https://arxiv.org/abs/1709.05254
+
 ## Questions?
 
 Please don't hesitate to send us your questions to: `marco ( dot ) schreyer ( at ) unisg ( dot ) ch`  
