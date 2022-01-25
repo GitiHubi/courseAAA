@@ -4,8 +4,7 @@ This repository features a series of interactive Jupyter Notebooks for the Fall 
 7,044,1.00 *Introduction to Artificial Intelligence and Machine Learning* course offered at the 
 University of St. Gallen (HSG).
 
-The goal of this voluntary lab course is to teach some basics in Python programming, machine learning and artificial 
-neural networks. We will also feature information on our coding challenge at the end of the semester here. 
+The ineractive lab will walk you through the detection of accounting anomalies using deep autoencoder neural networks. The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org), and [PyTorch](https://pytorch.org).
 
 ![Course Banner](banner.png)
 
@@ -60,6 +59,8 @@ If you need help running Python and/or Jupyter Notebooks, please don't hesitate 
 The lab is inspired by our work **"Detection of Anomalies in Large Scale Accounting Data using Deep Autoencoder Networks"** by Marco Schreyer, Timur Sattarov, Damian Borth, Andreas Dengel and Bernd Reimer.
 
 The publication is available on arXiv via the following link: https://arxiv.org/abs/1709.05254
+
+Opinions expressed in this work are those of the authors, and do not necessarily reflect the view of PricewaterhouseCoopers (PwC) International Ltd. nor its network firms.
 
 ## Questions?
 
