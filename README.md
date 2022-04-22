@@ -1,6 +1,6 @@
 ## AAA Master Class :: Detection of Accounting Anomalies using Deep-Learning
 
-This repository features the interactive Jupyter Notebooks for the Fall term 2021 lab course accompanying the *Detection of Accounting Anomalies using Deep-Learning* Master Class held at the [AAA's Intensive Data and Analytics III Summer Workshop 2022](https://aaahq.org/Meetings/2022/Intensive-Data-and-Analytics-Workshop-III).
+This repository features the interactive Jupyter Notebooks for the fall term 2021 lab course accompanying the *Detection of Accounting Anomalies using Deep-Learning* Master Class held at the [AAA's Intensive Data and Analytics III Summer Workshop 2022](https://aaahq.org/Meetings/2022/Intensive-Data-and-Analytics-Workshop-III).
 
 ![Course Banner](banner.png)
 
